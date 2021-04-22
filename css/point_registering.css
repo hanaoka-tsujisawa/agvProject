@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+	background-color: #000000;
+}
+
+.point_registering_tab {
+	color: #707070;
+}
+
+li a {
+	color: #000000;
+	text-decoration: none;
+	display: block;
+    height: 100%;
+    width: 100%;
+}

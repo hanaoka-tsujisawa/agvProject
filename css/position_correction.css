@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+	background-color: #FFFFFF;
+}
+
+.position_correction_tab {
+	color: #000000;
+}
+
+li a {
+	color: #707070;
+	text-decoration: none;
+	display: block;
+    height: 100%;
+    width: 100%;
+}
