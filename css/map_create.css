@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+body {
+	background-color: #1D1D1D;
+}
+
+.map_name {
+	width: 100%;
+	box-sizing: border-box;
+	position: fixed;
+	top: 65px;
+	bottom: 80px;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.map_name_label {
+	color: #ffffff;
+	padding: 20px;
+	font-size: 32px;
+}
+.map_name_input {
+	font-size: 32px;
+}
+
+footer {
+	width: 100%;
+	height: 75px;
+	position: fixed;
+	bottom: -60px;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.submit_button {
+	width: 320px;
+	height: 320px;
+	display: inline-block;
+	border-radius: 50%;
+	line-height: 0;
+	background: #1D1D1D;
+	color: #ffffff;
+	border: solid #dc3c3c;
+	border-width: 20px;
+}
+.tryangle {
+	width: 0;
+	height: 0;
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+	top: -70px;
+	border-style: solid;
+	border-width: 0 10px 20px 10px;
+	border-color: transparent transparent #ffffff transparent;
+}
+.submit_eng {
+	position: relative;
+	text-align: center;
+	top: -70px;
+	font-size: 32px;
+}
+.submit_jpn {
+	position: relative;
+	text-align: center;
+	top: -75px;
+	font-size: 14px;
+}
