@@ -24,7 +24,6 @@
 			}
 			
 			catch(PDOException $e) {
-				$time_stamp = date("Y-m-d H:i:s") . "." . substr(explode(".", (microtime(true) . ""))[1], 0, 2);
 				$map_name_input = $_POST['map_name_input'];
 
 				echo "<p>map_name: ".$map_name_input."</p>";
