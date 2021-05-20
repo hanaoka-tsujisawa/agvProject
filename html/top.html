@@ -1,3 +1,5 @@
+<!-- © 2021 HANAOKA SHARYO CO.,LTD All Rights Reserved. -->
+
 <!DOCTYPE html>
 <html lang="ja">
 	<head>
